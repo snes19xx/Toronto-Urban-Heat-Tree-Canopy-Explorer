@@ -63,7 +63,7 @@ Cooling Score = (Vegetation Percentage * 0.6) + ((100 - Temperature * 3) * 0.4)
 - **Treed Areas:** Toronto Open Data  
 
 ## Requirements
-
+**Please find the shapefiles and Landsat raster yourself**
 Install the dependencies with:
 
 ```bash
