@@ -76,7 +76,8 @@ pip install geopandas rasterio pandas numpy matplotlib seaborn rasterstats
 
 **D3 visualization source code:**  
 [https://observablehq.com/d/28763839f89cf8d8](https://observablehq.com/d/28763839f89cf8d8)
-OR use in iframe:
+
+OR embed with iframe:
 ```html
 <iframe width="100%" height="500" frameborder="0"
   src="https://observablehq.com/embed/28763839f89cf8d8?cell=*"></iframe>
