@@ -43,7 +43,7 @@ Uses **Landsat 9 thermal data** combined with **greenspace and tree coverage ana
 ### Vegetation Coverage
 
 - **Parks & Green Spaces:** 3,320 designated park areas  
-- **Treed Areas:** 45,638 forested zones from topographic data  
+- **Treed Areas:** 45,638 forested zones 
 
 **Calculation Formulas:**
 
